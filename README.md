@@ -81,3 +81,7 @@ The goal is to create a smooth user experience for real-time communication using
 ### **Conclusion**
 
 This Real-Time Chat Application is a strong, scalable project demonstrating key concepts in real-time communication, event-driven architecture, and full-stack development. It shows how tools like **React**, **Node.js**, and **Socket.IO** can be combined to build engaging, real-world applications that are functional and highly interactive. The project can be expanded with features like authentication, chat rooms, emojis, message encryption, and file sharing, making it a solid foundation for modern chat systems.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/73fe90f1-2ccc-4702-b517-262c8231de82)
